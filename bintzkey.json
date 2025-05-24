@@ -1,0 +1,40 @@
+{
+    "users": [
+
+        {
+            "username": "bintzge",
+            "password": "adminbintz",
+            "role": "admin"       
+        }, 
+        {
+            "username": "admin",
+            "password": "password123",
+            "role": "admin"       
+        },
+        {
+            "username": "bintzxyroo",
+            "password": "adminbxy",
+            "role": "admin"       
+        },
+        {
+            "username": "bintang",
+            "password": "scemde",
+            "role": "premium"       
+        }, 
+        {
+            "username": "Ditzzcuan",
+            "password": "ditzprem",
+            "role": "premium"       
+        },
+        {
+            "username": "free",
+            "password": "free22",
+            "role": "free"       
+        },
+        {
+            "username": "Renzy1",
+            "password": "Renzy1",
+            "role": "premium"       
+        }
+    ]
+}
