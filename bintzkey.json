@@ -35,6 +35,11 @@
             "username": "Renzy1",
             "password": "Renzy1",
             "role": "premium"       
+        },
+        {
+            "username": "user",
+            "password": "user426",
+            "role": "free"       
         }
     ]
 }
